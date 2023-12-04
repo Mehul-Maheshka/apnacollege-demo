@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author-Mehul Maheshka
+Author-Mehul (Tata Strive)
